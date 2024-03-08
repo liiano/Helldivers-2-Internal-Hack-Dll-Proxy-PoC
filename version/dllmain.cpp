@@ -46,6 +46,7 @@ void displayCheckboxes(const std::vector<Checkbox>& checkboxes, size_t selectedC
 
     printf(_XOR_("[Init] - Helldiver 2 PoC DLL Proxy...\n"));
     printf(_XOR_("[Init] - Thanks to cfemen and gir489...\n"));
+    printf(_XOR_("[Init] - aidbwaildbawidwaliudoeuhf...\n"));
 
     printf(_XOR_("[Ready] : Select some of the features below by pressing the [Space] key.\n"));
     printf(_XOR_("[Ready] : Press [Enter] to run the feature you selected.\n"));
